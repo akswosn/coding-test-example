@@ -2,7 +2,7 @@ package com.forlks.codingtest.codingtestexamplebyprogramers.programers.kit.스�
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Stack;
+
 
 public class 기능개발 {
   public Integer[] solution(int[] progresses, int[] speeds) {

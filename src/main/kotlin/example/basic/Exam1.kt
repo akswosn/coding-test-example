@@ -1,4 +1,4 @@
-package programers.basic
+package example.basic
 
 
 class Exam1 {
@@ -102,7 +102,7 @@ class Exam1 {
     companion object {
         @JvmStatic
         fun main(args: Array<String>) {
-            val e = Exam1()
+            val e = example.basic.Exam1()
 //1. >>>>>>>>>>>>>>>>>>>>>>>
 //            val str1 = "aaaaa"
 //            val str2 = "bbbbb"

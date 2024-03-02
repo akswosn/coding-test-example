@@ -1,4 +1,4 @@
-package programers.kit.정렬;
+package com.forlks.codingtest.codingtestexamplebyprogramers.programers.kit.정렬;
 
 import java.util.Arrays;
 
@@ -16,5 +16,13 @@ public class k번째수 {
 //      System.out.println(Arrays.toString(answer));
     }
     return answer;
+  }
+
+  public static void main(String[] args){
+    var e = new k번째수();
+    var array = new int[] {1, 5, 2, 6, 3, 7, 4};
+    var commands = new int[][] {{2, 5, 3}, {4, 4, 1}, {1, 7, 3}};
+
+    System.out.println(Arrays.toString(e.solution(array, commands)));
   }
 }

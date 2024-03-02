@@ -1,4 +1,4 @@
-package programers.basic;
+package com.forlks.codingtest.codingtestexamplebyprogramers.programers.basic;
 
 public class 주사위게임2 {
   public int solution(int a, int b, int c) {

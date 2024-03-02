@@ -1,9 +1,8 @@
-package programers.kit.greedy;
+package com.forlks.codingtest.codingtestexamplebyprogramers.programers.kit.greedy;
 
 
 import java.util.Arrays;
 import java.util.HashSet;
-
 import java.util.Set;
 
 

@@ -1,4 +1,4 @@
-package programers.kit.완전탐색;
+package com.forlks.codingtest.codingtestexamplebyprogramers.programers.kit.완전탐색;
 
 import java.util.ArrayList;
 import java.util.Arrays;

@@ -1,6 +1,6 @@
-package com.forlks.codingtest.codingtestforprogramers.ai
+package com.forlks.codingtest.programers.intro
 
-class ControlZ {
+class 컨트롤제트 {
     fun solution(s: String): Int {
         var answer: Int = 0
 
@@ -19,11 +19,10 @@ class ControlZ {
         return answer
     }
 
-
     companion object {
         @JvmStatic
         fun main(args: Array<String>) {
-            val e = ControlZ()
+            val e = 컨트롤제트()
 
 //            val s = "1 2 Z 3"
 //            val s = "10 20 30 40"
