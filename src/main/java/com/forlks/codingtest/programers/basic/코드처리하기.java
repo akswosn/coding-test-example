@@ -1,4 +1,4 @@
-package programers.basic;
+package com.forlks.codingtest.programers.basic;
 
 public class 코드처리하기 {
   public String solution(String code) {

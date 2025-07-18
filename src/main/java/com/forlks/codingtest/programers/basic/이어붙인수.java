@@ -1,4 +1,4 @@
-package programers.basic;
+package com.forlks.codingtest.programers.basic;
 
 public class 이어붙인수 {
   public int solution(int[] num_list) {

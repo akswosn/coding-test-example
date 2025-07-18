@@ -1,4 +1,4 @@
-package programers.basic;
+package com.forlks.codingtest.programers.basic;
 
 public class 수조작하기1 {
   public int solution(int n, String control) {

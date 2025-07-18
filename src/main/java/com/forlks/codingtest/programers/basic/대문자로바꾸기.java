@@ -1,4 +1,4 @@
-package programers.basic;
+package com.forlks.codingtest.programers.basic;
 
 public class 대문자로바꾸기 {
 

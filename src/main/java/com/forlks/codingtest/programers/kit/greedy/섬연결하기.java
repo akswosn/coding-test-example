@@ -1,4 +1,4 @@
-package programers.kit.greedy;
+package com.forlks.codingtest.programers.kit.greedy;
 
 
 import java.util.Arrays;

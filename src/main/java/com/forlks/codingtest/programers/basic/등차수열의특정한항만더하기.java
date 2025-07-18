@@ -1,4 +1,4 @@
-package programers.basic;
+package com.forlks.codingtest.programers.basic;
 
 public class 등차수열의특정한항만더하기 {
   public int solution(int a, int d, boolean[] included) {

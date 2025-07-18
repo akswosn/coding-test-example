@@ -1,4 +1,4 @@
-package com.forlks.codingtest.codingtestforprogramers.ai
+package com.forlks.codingtest.ai
 
 class ControlZ {
     fun solution(s: String): Int {

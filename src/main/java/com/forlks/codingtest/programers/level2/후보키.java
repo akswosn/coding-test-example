@@ -1,4 +1,4 @@
-package programers.skill.level2;
+package com.forlks.codingtest.programers.level2;
 
 public class 후보키 {
   public int solution(String[][] relation) {

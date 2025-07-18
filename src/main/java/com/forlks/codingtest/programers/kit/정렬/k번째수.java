@@ -1,4 +1,4 @@
-package programers.kit.정렬;
+package com.forlks.codingtest.programers.kit.정렬;
 
 import java.util.Arrays;
 

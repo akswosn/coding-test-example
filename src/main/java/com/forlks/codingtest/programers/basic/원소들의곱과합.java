@@ -1,4 +1,4 @@
-package programers.basic;
+package com.forlks.codingtest.programers.basic;
 
 public class 원소들의곱과합 {
   public int solution(int[] num_list) {

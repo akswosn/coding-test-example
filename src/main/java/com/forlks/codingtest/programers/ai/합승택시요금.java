@@ -1,4 +1,4 @@
-package programers.ai;
+package com.forlks.codingtest.programers.ai;
 
 import java.util.HashSet;
 

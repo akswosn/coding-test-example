@@ -1,6 +1,4 @@
-package programers.basic;
-
-import java.util.Arrays;
+package com.forlks.codingtest.programers.basic;
 
 public class 수열과구간쿼리2 {
   public int[] solution(int[] arr, int[][] queries) {

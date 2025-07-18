@@ -1,4 +1,4 @@
-package programers.kit.완전탐색;
+package com.forlks.codingtest.programers.kit.완전탐색;
 
 public class 최소직사각형 {
   public int solution(int[][] sizes) {
